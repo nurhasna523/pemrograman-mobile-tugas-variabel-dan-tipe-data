@@ -16,3 +16,7 @@ dengan pajak. Kemudian, nama karyawan, status karyawan, gaji kotor, pajak, dan g
 bersih ditampilkan pada output. 
 
 == INSTRUKSI CARA MENJALANKAN PROGRAM == 
+
+1. Ketik di terminal git clone https://github.com/nurhasna523/pemrograman-mobile-tugas-variabel-dan-tipe-data.git
+2. Setelahnya ketik cd pemrograman-mobile-tugas-variabel-dan-tipe-data
+3. Lalu jalankan dart run main.dart 
